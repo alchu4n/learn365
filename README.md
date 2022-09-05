@@ -1,6 +1,9 @@
 # Learn365
 
-This repository contains all the information shared during my Learn 365 Challenge. Learn 365 is a challenge to keep the learning spirit going on and challenge myself to learn something daily for the whole year, it can be anything from infosec to general life. Follow me on Twitter for Regular Updates: [Harsh Bothra](https://twitter.com/harshbothra_). Huge thanks to [Mehedi Hasan Remon](https://twitter.com/remonsec), who originally created and maintained this repository. 
+此存储库包含我在 Learn 365 Challenge 期间共享的所有信息,Learn 365 是一项挑战，可以保持学习精神并挑战自己全年每天学习一些东西,它可以是从信息安全到一般生活的任何东西
+
+
+
 ___
 S.NO | Mind Map
 --- | ---
