@@ -1,22 +1,22 @@
-# 2FA Bypass Techniques
+# 2FA Bypass Techniques(2FA 绕过技术)
 
 ### [Mindmap](https://mm.tt/1736437018?t=SEeZOmvt01)
 
 Index | Technique
 --- | ---
-**1** | Response Manipulation
-**2** | Status Code Manipulation
-**3** | 2FA Code Leakage in Response
-**4** | JS File Analysis
-**5** | 2FA Code Reusability
-**6** | Lack of Brute-Force Protection
-**7** | Missing 2FA Code Integrity Validation
-**8** | CSRF on 2FA Disabling
-**9** | Password Reset Disable 2FA
-**10** | Backup Code Abuse
-**11** | Clickjacking on 2FA Disabling Page
-**12** | Enabling 2FA doesn't expire Previously active Sessions
-**13** | Bypass 2FA with null or 000000
+**1** | Response Manipulation(响应操纵)
+**2** | Status Code Manipulation(状态码操作)
+**3** | 2FA Code Leakage in Response(2FA代码泄漏响应)
+**4** | JS File Analysis(JS文件分析)
+**5** | 2FA Code Reusability(2FA 代码可重用性)
+**6** | Lack of Brute-Force Protection(缺乏蛮力保护)
+**7** | Missing 2FA Code Integrity Validation(缺少 2FA 代码完整性验证)
+**8** | CSRF on 2FA Disabling(CSRF 关于 2FA 禁用)
+**9** | Password Reset Disable 2FA(密码重置禁用 2FA)
+**10** | Backup Code Abuse(备份代码滥用)
+**11** | Clickjacking on 2FA Disabling Page(点击劫持 2FA 禁用页面)
+**12** | Enabling 2FA doesn't expire Previously active Sessions(启用 2FA 不会过期)
+**13** | Bypass 2FA with null or 000000(使用 null 或 000000 绕过 2FA)
 ___
 #### Response Manipulation
 ```
